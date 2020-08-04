@@ -2,12 +2,12 @@
 	{
   "response": [
      {
-		"datetime": "1595389381",
-		"filename": "lineage-17.1-20200722-UNOFFICIAL-m1852.zip",
-		"id": "2be31b32b02ae74a6076be1b2f3e8dae",
+		"datetime": "1596525594",
+		"filename": "lineage-17.1-20200804-UNOFFICIAL-m1852.zip",
+		"id": "5540cdce8ea8890da0d6ffc55003b182",
 		"romtype": "UNOFFICIAL",
-		"size": "771618598",
-		"url": "https://sourceforge.net/projects/meizux8/files/Lineage-17.1/lineage-17.1-20200722-UNOFFICIAL-m1852.zip/download",
+		"size": "771584629",
+		"url": "https://sourceforge.net/projects/meizux8/files/Lineage-17.1/lineage-17.1-20200804-UNOFFICIAL-m1852.zip/download",
 		"version": "17.1"
 	}
  ]
