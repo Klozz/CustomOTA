@@ -2,12 +2,12 @@
 	{
   "response": [
      {
-		"datetime": "1601157029",
-		"filename": "RROS-Q-8.6.1-20200926-miatoll-Weekly.zip",
-		"id": "23e1748d3add985a0a86b398a5c5e2de",
+		"datetime": "1601773270",
+		"filename": "RROS-Q-8.6.1-20201004-miatoll-Weekly.zip",
+		"id": "",
 		"romtype": "Weekly",
-		"size": "1223313679",
-		"url": "https://sourceforge.net/projects/xperience-aosp/files/NoneofXperelated/RROS-Q-8.6.1-20200926-miatoll-Weekly.zip/download",
+		"size": "",
+		"url": "https://sourceforge.net/projects/xperience-aosp/files/NoneofXperelated/RROS-Q-8.6.1-20201004-miatoll-Weekly.zip/download",
 		"version": "8.6.0"
 	}
  ]
