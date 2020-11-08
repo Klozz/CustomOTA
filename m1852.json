@@ -2,12 +2,12 @@
 	{
   "response": [
      {
-		"datetime": "1604215849",
-		"filename": "RROS-Q-8.6.3-20201101-m1852-Weekly.zip",
-		"id": "0b89c8b3217bf8e566a5eb72162f1ec7",
+		"datetime": "1604826230",
+		"filename": "RROS-Q-8.6.3-20201108-m1852-Weekly.zip",
+		"id": "b57b69918c5ad44fe27fb758a091468c",
 		"romtype": "Weekly",
-		"size": "978794771",
-		"url": "https://sourceforge.net/projects/meizux8/files/rr/RROS-Q-8.6.3-20201101-m1852-Weekly.zip/download",
+		"size": "978839946",
+		"url": "https://sourceforge.net/projects/meizux8/files/rr/RROS-Q-8.6.3-20201108-m1852-Weekly.zip/download",
 		"version": "8.6.3"
 	}
  ]
