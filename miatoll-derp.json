@@ -1,11 +1,11 @@
 {
     "response": [{
-            "datetime": "1620566391",
-            "filename": "DerpFest-11-Weekly-Beta-miatoll-20210509-1443",
-            "id": "e5d58891de4a2ce65e1cc7f2c38c8d71",
-            "romtype": "Weekly",
-            "size": "2235970806",
-            "url": "https://TheXPerienceProject.org/downloads/device/api/miatoll/others/DerpFest-11-Weekly-Beta-miatoll-20210509-1443.zip",
+            "datetime": "1621155360",
+            "filename": "DerpFest-11-Official-Beta-miatoll-20210516-1018",
+            "id": "17e760210de99e36cf556fc9d668bbb8",
+            "romtype": "Official",
+            "size": "2237122189",
+            "url": "https://sourceforge.net/projects/derpfest/files/miatoll/miatoll/DerpFest-11-Official-Beta-miatoll-20210516-1018.zip/download",
             "version": "11"
         }
     ]
